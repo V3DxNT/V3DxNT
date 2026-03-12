@@ -23,15 +23,15 @@ I craft seamless cross-platform experiences and robust backend systems.
 <a href="https://linkedin.com/in/vedant-me">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/vedant">
+<!-- <a href="https://twitter.com/vedant">
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-</a>
+</a> -->
 <a href="mailto:vedantasthana@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://leetcode.com/vedant">
+<!-- <a href="https://leetcode.com/vedant">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
-</a>
+</a> -->
 
 </div>
 
