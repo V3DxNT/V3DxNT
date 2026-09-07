@@ -1,114 +1,178 @@
 <div align="center">
 
 <a href="https://v3dxnt.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=5000&pause=2000&color=2196F3&center=true&vCenter=true&width=435&lines=Heya!+I'm+Vedant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Heya!+I'm+Vedant;CS+Undergrad+%7C+Software+Developer;Backend+%C2%B7+Web+%C2%B7+Mobile;Building+things+that+scale" alt="Heya, I'm Vedant" />
 </a>
 
+<br>
 
-### 🚀 CS Undergrad | WEB & MOBILE DEVELOPER
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&width=600" width="65%" alt="divider" />
 
-I craft seamless cross-platform experiences and robust backend systems.
+<br><br>
 
-<div align="left">
-
-* 🧠 I focus on **Data Structures**, **Algorithms**, and **Performance Optimization**.
-* 🔭 I’m currently exploring **Open Source** and **System Design**.
-* 🛠 I specialize in the **MERN Stack** and **React Native** ecosystem.
-* 📫 Let's Connect and build something amazing together!
+<a href="https://v3dxnt.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" /></a> &nbsp;
+<a href="https://linkedin.com/in/vedant-me"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a> &nbsp;
+<a href="https://www.youtube.com/@VedByte"><img src="https://img.shields.io/badge/VedByte-0D1117?style=for-the-badge&logo=youtube&logoColor=FF4444" alt="VedByte" /></a>
 
 </div>
 
-<br/>
+<br>
 
-<a href="https://linkedin.com/in/vedant-me">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<!-- <a href="https://twitter.com/vedant">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-</a> -->
-<a href="mailto:vedantasthana@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<!-- <a href="https://leetcode.com/vedant">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
-</a> -->
+## 👨‍💻 About Me
 
+| Area | Focus |
+|---|---|
+| 🔧 **Backend** | Go · gRPC · RabbitMQ · Redis — building high-throughput services and APIs |
+| 🌐 **Web** | React · Next.js · TypeScript — modern, responsive web experiences |
+| 📱 **Mobile** | React Native · Expo · NativeWind — cross-platform applications |
+| ⚙️ **Core** | C++ · Java · DSA — algorithms, performance & problem solving |
+| 🎯 **Interests** | System Design · Distributed Systems · Event-driven Architecture · Performance Engineering |
+| 🚀 **Currently Exploring** | CNCF · Open Source · Cloud Native · Backend Architecture |
+| 🎥 **Content** | Development content, experiments & tutorials on **VedByte** |
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="220" alt="Developer animation" />
 </div>
 
-<br/>
+<br>
 
----
-
-# 👨‍💻 Tech Stack
-
-### 🗣️ Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-### 💻 Web Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-### 📱 Mobile App Development
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
-![NativeWind](https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### ⚙️ Server & Networking
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![AppWrite](https://img.shields.io/badge/Appwrite-%23F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)
-
-### 💾 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<!-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) -->
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🛠 Tools & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-<br/>
-<br/>
-
----
+## 💻 Languages
 
 <div align="center">
 
-  <h3>Thanks for visiting! 🌟</h3>
-  
-  <p><i>"The best error message is the one that never shows up." - Thomas Fuchs</i></p>
+| C++ | Java | Go | TypeScript | C |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="48" alt="Go" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" alt="TypeScript" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" alt="C" /> |
 
-  <br/>
+</div>
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
+<br>
 
-  <br/>
-  <br/>
-  
-  <a href="#-tech-stack">⬆️ Back to Top</a>
+## ⚙️ Backend & Databases
+
+**Backend & Infrastructure**
+
+<div align="center">
+
+| Go | Node.js | Express | RabbitMQ | Redis |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="48" alt="Go" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" alt="Express" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="48" alt="RabbitMQ" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" alt="Redis" /> |
+
+</div>
+
+**Databases**
+
+<div align="center">
+
+| PostgreSQL | MongoDB | MySQL | Supabase |
+|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" alt="Supabase" /> |
+
+</div>
+
+**Communication & Real-time**
+
+<div align="center">
+
+| gRPC | Socket.io |
+|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="48" alt="gRPC" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48" alt="Socket.io" /> |
+
+</div>
+
+<br>
+
+## 🌐 Web
+
+<div align="center">
+
+| React | Next.js | HTML5 | CSS3 | Tailwind CSS |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" alt="React" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" alt="Next.js" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" alt="Tailwind CSS" /> |
+
+| Redux | Vite | Framer Motion |
+|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" alt="Redux" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48" alt="Vite" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="48" alt="Framer Motion" /> |
+
+</div>
+
+<br>
+
+## 📱 Mobile
+
+<div align="center">
+
+| React Native | Expo | NativeWind |
+|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" alt="React Native" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="48" alt="Expo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" alt="NativeWind" /> |
+
+</div>
+
+<br>
+
+## ☁️ DevOps & Cloud Native
+
+<div align="center">
+
+| Docker | Kubernetes |
+|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" alt="Kubernetes" /> |
+
+Containers · Orchestration · Cloud Native · Scalable Infrastructure
+
+</div>
+
+<br>
+
+## 🛠️ Tools & Environment
+
+<div align="center">
+
+| Linux | Git | GitHub | Android Studio | Apple | Postman |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="GitHub" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" alt="Android Studio" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" alt="Apple" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" alt="Postman" /> |
+
+</div>
+
+<br>
+
+## 🚀 What I Optimize For
+
+| ⚡ Performance | 📈 Scalability | 🧩 Simplicity | 📚 Learning |
+|---|---|---|---|
+| Low latency | Concurrency | Clean APIs | Open Source |
+| Efficient execution | Distributed workloads | Good abstractions | Systems |
+| Smart caching | Reliable services | Maintainable code | New technologies |
+
+<br>
+
+## 🎥 VedByte
+
+<div align="center">
+
+<a href="https://www.youtube.com/@VedByte"><img src="https://img.shields.io/badge/Watch_on_VedByte-0D1117?style=for-the-badge&logo=youtube&logoColor=FF4444" alt="VedByte YouTube" /></a>
+
+<br><br>
+
+**BUILD · LEARN · EXPERIMENT · SHARE**
+
+</div>
+
+<br>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://v3dxnt.vercel.app"><img src="https://img.shields.io/badge/Explore_My_Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio" /></a> &nbsp;
+<a href="mailto:vedantasthana@gmail.com"><img src="https://img.shields.io/badge/Get_in_Touch-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+
+<br><br>
+
+<code>build(); learn(); ship();</code>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:111827,100:0D1117&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
