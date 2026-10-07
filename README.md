@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://v3dxnt.vercel.app">
+<a href="https://www.vedx.dev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Heya!+I'm+Vedant;CS+Undergrad+%7C+Software+Developer;Backend+%C2%B7+Web+%C2%B7+Mobile;Building+things+that+scale" alt="Heya, I'm Vedant" />
 </a>
 
@@ -10,8 +10,8 @@
 
 <br><br>
 
-<a href="https://v3dxnt.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" /></a> &nbsp;
-<a href="https://linkedin.com/in/vedant-me"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a> &nbsp;
+<a href="https://www.vedx.dev/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" /></a> &nbsp;
+<a href="https://linkedin.com/in/v3d4n7"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a> &nbsp;
 <a href="https://www.youtube.com/@VedByte"><img src="https://img.shields.io/badge/VedByte-0D1117?style=for-the-badge&logo=youtube&logoColor=FF4444" alt="VedByte" /></a>
 
 </div>
@@ -136,16 +136,6 @@ Containers · Orchestration · Cloud Native · Scalable Infrastructure
 
 <br>
 
-## 🚀 What I Optimize For
-
-| ⚡ Performance | 📈 Scalability | 🧩 Simplicity | 📚 Learning |
-|---|---|---|---|
-| Low latency | Concurrency | Clean APIs | Open Source |
-| Efficient execution | Distributed workloads | Good abstractions | Systems |
-| Smart caching | Reliable services | Maintainable code | New technologies |
-
-<br>
-
 ## 🎥 VedByte
 
 <div align="center">
@@ -164,7 +154,7 @@ Containers · Orchestration · Cloud Native · Scalable Infrastructure
 
 <div align="center">
 
-<a href="https://v3dxnt.vercel.app"><img src="https://img.shields.io/badge/Explore_My_Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio" /></a> &nbsp;
+<a href="https://www.vedx.dev"><img src="https://img.shields.io/badge/Explore_My_Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio" /></a> &nbsp;
 <a href="mailto:vedantasthana@gmail.com"><img src="https://img.shields.io/badge/Get_in_Touch-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
 <br><br>
